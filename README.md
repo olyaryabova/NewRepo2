@@ -112,7 +112,7 @@ public class Program
 {
     public static double Form(double a, double b)
     {
-        return Math.Sqrt(a * a + b * b); // Используем теорему Пифагора
+        return Math.Sqrt(a * a + b * b);
     }
 
     public static void Main(string[] args)
